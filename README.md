@@ -11,7 +11,7 @@ As a seasoned software engineer with over four years of experience, I've woven t
 ||||
 ||||
 
-## Open Source Contribution 
+## Open source contribution 
 
 ### Mozilla
 * [Example Mozilla contribution](https://support.mozilla.org/en-US/kb/improve-knowledge-base)
