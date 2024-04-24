@@ -4,4 +4,4 @@ This article describes how to create a branch within your GitHub repository. Bra
 
 ### Creating a branch from the branch overview
 1. Navigate to the main page of your repository.
-2. Select branch drop-down menu to expand the branches overview.
+2. Select ![Alt text](Images/branchImage.svg?raw=true) branch drop-down menu to expand the branches overview.
