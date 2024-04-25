@@ -4,7 +4,7 @@ A rule is an automated action that Outlook performs on incoming or outgoing emai
 
 ## Create a rule
 
-1. At the top of the page, select the **settings** gear ![gear icon](Images/setting.png)
+1. At the top of the page, select **Settings** ![gear icon](Images/setting.png) 
 
 
 > **Note:** Rules will only automatically operate on messages as they are received. To run a rule on messages that are already in the **Inbox**, navigate to the rule by following steps one and two above and select **Run rule now**. 
@@ -13,3 +13,7 @@ A rule is an automated action that Outlook performs on incoming or outgoing emai
 
 
 ## Change rule application order
+
+
+
+<a href="https://www.flaticon.com/free-icons/settings" title="settings icons">Settings icons created by Freepik - Flaticon</a>
