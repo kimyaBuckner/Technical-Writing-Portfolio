@@ -20,10 +20,19 @@ A rule is an automated action that Outlook performs on incoming or outgoing emai
 2. Select **Mail** > **Rules**.
 3. Select **Delete rule** ![trash icon](Images/bin.png) on the rule you wish to remove.
 
-## Change rule application order
+## Edit a rule
+1. At the top of the page, select **Settings** ![gear icon](Images/setting.png).
+2. Select **Mail** > **Rules**.
+3. Select **Edit rule** on the rule you wish to edit. 
+
+## Set the order in which rules are applied
+1. At the top of the page, select **Settings** ![pencil icon](Images/pen.png).
+2. Select **Mail** > **Rules**.
+3. Use the Up arrow or Down arrow to change the order in which rules are applied to incoming messages 
 
 
 
 <a href="https://www.flaticon.com/free-icons/settings" title="settings icons">Settings icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/play-button" title="play button icons">Play button icons created by Freepik - Flaticon</a>
 <a href="https://www.flaticon.com/free-icons/trash" title="trash icons">Trash icons created by Freepik - Flaticon</a>
+<a href="https://www.flaticon.com/free-icons/pencil" title="pencil icons">Pencil icons created by Icongeek26 - Flaticon</a>
