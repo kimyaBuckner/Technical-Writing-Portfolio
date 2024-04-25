@@ -10,5 +10,3 @@ A rule is an automated action that Outlook performs on incoming or outgoing emai
 > **Note:** Rules will only automatically operate on messages as they are received. To run a rule on messages that are already in the **Inbox**, navigate to the rule by following steps one and two above and select **Run rule now**. 
 
 ## Delete a rule
-
-
