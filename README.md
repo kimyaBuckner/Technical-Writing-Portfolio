@@ -13,5 +13,3 @@ This guide is designed to assist in efficiently managing rules within Outlook We
 ### [Create a branch within your GitHub repository](CreateAGitHubBranch.md)
 This article aims to guide developers on creating branches within a GitHub repository. This document offers clear, step-by-step instructions for effective branch creation empowering developers to isolate and test changes effortlessly.
 
-[![LinkedIn Logo](Images/linked.png)](https://www.linkedin.com/in/kimya-buckner/) [![mail icon](Images/outlook.png)](mailto:kimyabuckner@gmail.com) ![cv icon](Images/resume.png)
-
