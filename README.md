@@ -8,7 +8,7 @@ This portfolio provides a few samples of technical documentation I have produced
 ## Writing samples 
 
 ### [Manage rules in Outlook web](ManageRulesInOutlookWeb.md)
-The purpose of this article is to provide 
+This article aims to guide developers on creating branches within a GitHub repository. This document offers clear, step-by-step instructions for effective branch creation empowering developers to isolate and test changes effortlessly.
 
 
 ### [Create a GitHub branch](CreateAGitHubBranch.md)
