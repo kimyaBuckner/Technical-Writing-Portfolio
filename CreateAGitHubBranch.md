@@ -10,8 +10,8 @@ This article describes how to create a branch within your GitHub repository. Bra
 <div>
   <Image
     quality={100}
-    title="branch overview"
-    src="/Images/dropDown.png"
+    title="Branch overview"
+    src="/Images/dropdown.png"
     alt="Branch overview drop down"
     loading="eager"
    />
