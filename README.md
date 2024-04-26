@@ -11,4 +11,4 @@ This portfolio provides a few samples of technical documentation I have produced
 This guide is designed to assist Outlook Web users in efficiently managing their inbox rules. It provides step-by-step instructions for creating, deleting, and editing rules, catering to users who want to optimize their inbox organization.
 
 ### <ins>[Create a branch within your GitHub repository](CreateAGitHubBranch.md)</ins>
-This article aims to guide developers through the process of creating branches within a GitHub repository. This document offers clear, step-by-step instructions for effective branch creation empowering developers to isolate and test changes effortlessly.
+This article aims to guide developers through the process of creating branches within a GitHub repository. This document offers step-by-step instructions for effective branch creation, empowering developers to isolate and test changes effortlessly.
