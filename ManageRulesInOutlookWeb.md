@@ -7,7 +7,7 @@ A rule is an automated action that Outlook performs on incoming or outgoing emai
 1. At the top of the page, select **Settings** ![gear icon](Images/setting.png).
 2. Select **Mail** > **Rules**.
 3. Select **Add new rule**.
-4. In the **Name your rule** box, enter a rule name.
+4. Enter a name for your rule in the **Name your rule** box.
 5. Under **Add a condition**, select the conditions you want a message to satisfy for the rule to be applied.
 6. Under **Add an action**, select the action you want this rule to perform.
 7. Select **Stop processing more rules** if you don't want additional rules to be run on a message after this rule is performed.
@@ -23,7 +23,7 @@ A rule is an automated action that Outlook performs on incoming or outgoing emai
 ## Edit a rule
 1. At the top of the page, select **Settings** ![gear icon](Images/setting.png).
 2. Select **Mail** > **Rules**.
-3. Select **Edit rule** on the rule you want to edit. 
+3. Select **Edit rule** on the rule you want to modify. 
 
 ## Set the order in which rules are applied
 1. At the top of the page, select **Settings** ![pencil icon](Images/pen.png).
